@@ -1,0 +1,23 @@
+{
+  "name": "random-back",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirakl-026/random-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirakl-026/random-back/issues"
+  },
+  "homepage": "https://github.com/mirakl-026/random-back#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
